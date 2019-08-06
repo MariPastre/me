@@ -1,0 +1,186 @@
+html {
+    margin: 0;
+}
+
+.top-menu {
+    background-color: #F9F9F9;
+    font-size: 0.8em;
+    width: 100%;
+    position: relative;
+    top: 0px;
+}
+
+aside, ul, li {
+    text-align: right;
+    display: inline;
+    text-decoration: none;
+    color: #393F4B;
+    padding: 0.5em;
+}
+
+
+nav div ul li a {
+    color: #393F4B;
+}
+
+nav div ul li a:hover {
+    text-decoration: none;
+    color: #393F4B;
+    border-bottom: #CFEEE9 solid 3px;
+}
+
+nav {
+    position: relative;
+    top: 5px;
+}
+
+body a {
+    color: #393F4B;
+}
+
+body a:hover {
+    text-decoration: none;
+    color: #393F4B;
+}
+
+.img-bgd {
+    width: 100%;
+    background-position: top left;
+    background-repeat: no-repeat;
+}
+
+section {
+    padding-left: 4em;
+    color: #393F4B;
+}
+
+ul li {
+    text-decoration: none;
+}
+
+.pacifico {
+    font-family: 'Pacifico', cursive;
+}
+
+.bgd-destak {
+    background-color: #CFEEE9;
+}
+
+.logo-mari {
+    background-image: url(C:\Users\marketing\Desktop\Mari\mari.png);
+    height: 4em;
+    margin-left: 2em;
+}
+
+.logo-mari:hover {
+    background-image: url(C:\Users\marketing\Desktop\Mari\mariellavito.png);
+}
+
+.mari-img {
+    margin-left: 4em;
+}
+
+.testemonial {
+    background-color: #CFEEE9;
+    text-align: center;
+    padding: 1em;
+}
+
+.what-i-do-img {
+    width: 15em;
+    display: block; 
+    margin-left: auto;
+    margin-right: auto
+}
+
+.title-block {
+    font-size: 1em;
+    padding: 0.5em;
+}
+
+.current-job-bgd {
+    background-color: #F9F9F9;
+}
+
+.news-img {
+    width: 40%
+}
+
+/*Footer*/
+
+.background-color-footer {
+    color: #393F4B;
+    background-color: #CFEEE9;
+    margin: -1em;
+    padding: 2em 1em 1em;
+}
+
+.border-color-footer {
+    background-color: #CFEEE9;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    border-style: solid;
+    border-bottom-color: #5b6770;
+    border-top-color: #5b6770;
+  }
+
+ .font-size-200 {
+     font-size: 200%;
+ } 
+
+ .font-size-120 {
+     font-size: 120%;
+ }
+
+.padding-top-1em {
+    padding-top: 1em;
+}
+
+.padding-top-2em {
+    padding-top: 2em;
+}
+
+.padding-top-4em {
+    padding-top: 4em;
+}
+
+.padding-top-bottom-1em {
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+
+.padding-top-bottom-2em {
+    padding-top: 2em;
+    padding-bottom: 2em;
+}
+
+.padding-left-right-4em {
+    padding-left: 4em;
+    padding-right: 4em;
+}
+
+.padding-left-4em {
+    padding-left: 4em;
+}
+
+.padding-left-20em {
+    padding-left: 20em;
+}
+
+.text-align-center {
+    text-align: center;
+}
+
+.text-align-left {
+    text-align: left;
+}
+
+.align-center {
+    align-content: center;
+}
+
+.grid-display {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 1em;
+}
