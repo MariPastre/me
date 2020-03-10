@@ -43,6 +43,10 @@ body a:hover {
     color: #393F4B;
 }
 
+::selection {
+    background-color: #FDE3E2;
+}
+
 .img-bgd {
     width: 100%;
     background-position: top left;
